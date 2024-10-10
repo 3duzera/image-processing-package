@@ -10,7 +10,7 @@ The package package_name is used to:
 		- Read image
 		- Save image
 		- Plot image
-		- 
+		
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
