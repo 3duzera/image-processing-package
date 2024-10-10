@@ -2,11 +2,11 @@
 
 Description. 
 The package package_name is used to:
-	processing:
+	##processing:
 		- histogram matching
 		- Structural Similary
 		- Resize image
-	utils:
+	##utils:
 		- Read image
 		- Save image
 		- Plot image
