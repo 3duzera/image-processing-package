@@ -2,9 +2,15 @@
 
 Description. 
 The package package_name is used to:
-	- 
-	-
-
+	processing:
+		- histogram matching
+		- Structural Similary
+		- Resize image
+	utils:
+		- Read image
+		- Save image
+		- Plot image
+		- 
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
@@ -21,7 +27,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+Eduardo
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
